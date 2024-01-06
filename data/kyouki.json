@@ -10,5 +10,12 @@
     "verification": "https://youtu.be/bE61mDudcuQ",
     "showcase": "https://youtu.be/jAqR0ahHm0I",
     "percentToQualify": 58,
-    "records": []
+    "records": [
+        {
+            "user": "BarbequeSauce",
+            "link": "https://www.youtube.com/watch?v=qhoz93ynFfA",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
