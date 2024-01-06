@@ -7,5 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=ia12tPsK_tQ&ab_channel=Diverse",
     "showcase": "",
     "percentToQualify": 66,
-    "records": []
+    "records": [
+        {
+            "user": "BarbequeSauce",
+            "link": "https://www.youtube.com/watch?v=AGNCPbmPNIg",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
