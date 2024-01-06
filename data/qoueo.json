@@ -205,6 +205,12 @@
             "link": "https://www.youtube.com/watch?v=FNHMbZ5Y7No",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "BarbequeSauce",
+            "link": "https://www.youtube.com/watch?v=KzwNdgF0tEI",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
