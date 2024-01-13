@@ -77,13 +77,13 @@ export async function fetchLeaderboard() {
         verified.push({
             rank: rank + 1,
             level: level.name,
-            score: score(rank + 1, 100, level.percentToQualify),
+            score: score(rank + 1, 100, level.percentToQualify) * 1.1,
             link: level.verification,
             path: level.path
         });
 
         // Records
-        level.records.forEach((record) => {
+        level.records.forEach((record, index) => {
             const user = Object.keys(scoreMap).find(
                 (u) => u.toLowerCase() === record.user.toLowerCase(),
             ) || record.user;
@@ -99,9 +99,12 @@ export async function fetchLeaderboard() {
                 completed.push({
                     rank: rank + 1,
                     level: level.name,
-                    score: score(rank + 1, 100, level.percentToQualify),
+                    score:
+                        index < 2
+                            ? score(rank + 1, 100, level.percentToQualify) * 1.1
+                            : score(rank + 1, 100, level.percentToQualify),
                     link: record.link,
-                    path: level.path
+                    path: level.path,
                 });
                 return;
             }
@@ -144,6 +147,7 @@ export async function fetchLeaderboard() {
     });
 
     // Sort by total score
+    console.log(scoreMap)
     return [res.sort((a, b) => b.total - a.total), errs];
 }
 
