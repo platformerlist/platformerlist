@@ -330,6 +330,12 @@
             "link": "https://www.youtube.com/watch?v=dUZnOhlJ2uU",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "asmallsock",
+            "link": "https://youtu.be/o7CfNVI8fU4",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
