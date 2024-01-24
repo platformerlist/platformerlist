@@ -1343,6 +1343,12 @@
             "link": "https://youtu.be/TJDu4LF7FMQ",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "kane",
+            "link": "https://www.youtube.com/watch?v=_-9kG6Ah3Wk&ab_channel=TazerKane",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
