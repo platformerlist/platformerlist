@@ -367,6 +367,12 @@
             "link": "https://www.youtube.com/watch?v=Nrdc44pxcD8&ab_channel=DylanGamingExtras",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "boylighty",
+            "link": "https://www.youtube.com/watch?v=nwPdA8e2tGE",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
