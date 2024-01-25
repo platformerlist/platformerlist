@@ -55,6 +55,11 @@
         "link": "#"
     },
     {
+        "role": "mod",
+        "name": "Experience",
+        "link": "https://www.youtube.com/channel/UCxkJUJ0JW5mU9hNS7d00tTw"
+    },
+    {
         "role": "dev",
         "name": "Prometheus",
         "link": "https://www.youtube.com/c/PrometheusAlt"
