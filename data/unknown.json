@@ -261,6 +261,12 @@
             "link": "https://youtu.be/noVfCat6YeY",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "LavaClone",
+            "link": "https://www.youtube.com/watch?v=VrjL6CpQV9U&ab_channel=LavaCloneGD",
+            "percent": 73,
+            "hz": 240
         }
     ]
 }
