@@ -1349,6 +1349,12 @@
             "link": "https://www.youtube.com/watch?v=_-9kG6Ah3Wk&ab_channel=TazerKane",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "scared",
+            "link": "https://www.youtube.com/watch?v=b_cePi1LABs",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
