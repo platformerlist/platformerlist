@@ -658,6 +658,13 @@
             "link": "https://www.youtube.com/watch?v=5SZQkhbRnZs",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "[ñ] swagcat",
+            "link": "https://youtu.be/jhmOg4QC_H0?si=9bjgJmHJFVTCN5Ce",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
