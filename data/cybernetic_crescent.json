@@ -337,6 +337,12 @@
             "link": "https://www.youtube.com/watch?v=3q5Pb3X1zaw",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "LordOfTheGeese",
+            "link": "https://youtu.be/yz0d9-CvHJ8?si=eZ3OOt0I8rmHGfTK",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
