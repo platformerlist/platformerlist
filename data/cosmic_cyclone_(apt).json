@@ -8,11 +8,5 @@
     "showcase": "",
     "percentToQualify": 66,
     "records": [
-        {
-            "user": "BarbequeSauce",
-            "link": "https://www.youtube.com/watch?v=AGNCPbmPNIg",
-            "percent": 100,
-            "hz": 360
-        }
     ]
 }
