@@ -60,6 +60,11 @@
         "link": "https://www.youtube.com/channel/UCxkJUJ0JW5mU9hNS7d00tTw"
     },
     {
+        "role": "mod",
+        "name": "DuoFresh",
+        "link": "https://www.youtube.com/@duofresh7615"
+    },
+    {
         "role": "dev",
         "name": "Prometheus",
         "link": "https://www.youtube.com/c/PrometheusAlt"
