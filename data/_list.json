@@ -9,7 +9,6 @@
     "corrupted_planet",
     "hard_machine",
     "frozen_cave",
-    "cosmic_cyclone_(apt)",
     "mutiny",
     "critical_heat",
     "aerial_gleam",
@@ -27,7 +26,6 @@
     "henken",
     "glacial_dream",
     "the_hell_origin",
-    "walter_white",
     "descent_into_exile",
     "natural_disaster",
     "dark_flare",
@@ -157,5 +155,7 @@
     "le_fishe",
     "glacial_core",
     "factory_realm_x",
-    "sinister_incision"
+    "sinister_incision",
+    "monstrosity",
+    "low_death"
 ]
