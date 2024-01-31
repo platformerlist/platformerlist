@@ -166,7 +166,7 @@
     },
 {
         "name": "Prometheus Pack",
-        "levels": ["the_hell_origin", "arcturus", "promethean"],
+        "levels": ["silent_clubstep", "arcturus", "promethean"],
         "colour": "#e6a417"
     },
 {
@@ -205,18 +205,13 @@
         "colour": "#642c94"
     },
 {
-        "name": "/Swan Pack",
-        "levels": ["neutra", "the_golden", "le_fishe"],
-        "colour": "#ebf7f6"
-    },
-{
         "name": "CarlIsBored Pack",
         "levels": ["ringy_paracosm", "down_bass_incarnate", "no_jokes"],
         "colour": "#e23838"
     },
 {
         "name": "TravelChimp Pack",
-        "levels": ["atomic_cannon_mk_ii", "atomic_cannon", "walter_white"],
+        "levels": ["atomic_cannon_mk_ii", "atomic_cannon", "rosedynamix"],
         "colour": "#6c4675"
     },
 {
