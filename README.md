@@ -69,8 +69,7 @@ Can i submit Multiple levels on 1 video?
 
 ## Owners:
 
-- Microwaveee
-- JustCrust
+- Bluestone
 - Prometheus
 
 ---
@@ -78,7 +77,9 @@ Can i submit Multiple levels on 1 video?
 ## List Admins:
 
 - TravelChimp
-- Ryoui
+- SorryM8
+- KylashTheKiller
+- SarcasticMuch
 
 ## Repo Maintainers:
 
