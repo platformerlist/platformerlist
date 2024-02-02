@@ -18,6 +18,12 @@
             "link": "https://www.youtube.com/watch?v=fKs67q8Rn58",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Clare",
+            "link": "https://www.youtube.com/watch?v=BZR_ba-Bvss",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
