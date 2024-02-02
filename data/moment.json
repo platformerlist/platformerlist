@@ -301,6 +301,12 @@
             "link": "https://www.youtube.com/watch?v=qhDKYUUwBaA",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "GD Fayo",
+            "link": "https://www.youtube.com/watch?v=HyddDKlans4&ab_channel=GDFayo",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
