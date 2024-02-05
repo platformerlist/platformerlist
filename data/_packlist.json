@@ -81,7 +81,7 @@
     },
 {
         "name": "Timing Pack 3",
-        "levels": ["aronia", "xo", "sary_never_clear"],
+        "levels": ["oblivion", "xo", "sary_never_clear"],
         "colour": "#adadad"
     },
 {
@@ -141,7 +141,7 @@
     },
 {
         "name": "Strix Pack",
-        "levels": ["anemesis", "trueffet", "aronia"],
+        "levels": ["anemesis", "trueffet", "athanatos"],
         "colour": "#f8a476"
     },
 {
@@ -191,7 +191,7 @@
     },
 {
         "name": "SRU Pack",
-        "levels": ["silent_clubstep", "ragnarok", "aftercatabath"],
+        "levels": ["diabolic_clubstep", "artificial_ascent", "aftercatabath"],
         "colour": "#8b0505"
     },
 {
