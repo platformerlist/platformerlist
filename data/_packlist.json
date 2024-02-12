@@ -1,10 +1,5 @@
 [
     {
-        "name": "XXL Pack",
-        "levels": ["marathon", "ragnarok", "aftercatabath"],
-        "colour": "#cea66c"
-    },
-{
         "name": "XL Pack 1",
         "levels": ["verdant_landscape", "sigma", "calamity"],
         "colour": "#d6880c"
@@ -165,11 +160,6 @@
         "colour": "#a17ef4"
     },
 {
-        "name": "Prometheus Pack",
-        "levels": ["silent_clubstep", "arcturus", "promethean"],
-        "colour": "#e6a417"
-    },
-{
         "name": "Whitar Pack",
         "levels": ["macabre", "aesthetic", "spectrum_rave"],
         "colour": "#0099e1"
@@ -188,11 +178,6 @@
         "name": "Sarcasticmuch Pack",
         "levels": ["eternal_moment", "aquatic_auroras", "unknown"],
         "colour": "#079fdc"
-    },
-{
-        "name": "SRU Pack",
-        "levels": ["diabolic_clubstep", "artificial_ascent", "aftercatabath"],
-        "colour": "#8b0505"
     },
 {
         "name": "Virtz Pack",
