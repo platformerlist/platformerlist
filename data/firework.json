@@ -1551,6 +1551,12 @@
             "link": "https://www.youtube.com/watch?v=FQaGef0WpEk",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "monthmai",
+            "link": "https://youtu.be/E3GwLUdIS5U?si=1mcki-SZjPSGRw9v",
+            "percent": 100,
+            "hz": 165
         }
     ] 
 }
