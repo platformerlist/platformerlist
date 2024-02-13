@@ -659,6 +659,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "SourDetail",
+            "link": "https://www.youtube.com/watch?v=MkjB9EsjfqY",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
