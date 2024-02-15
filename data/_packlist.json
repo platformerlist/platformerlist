@@ -51,7 +51,7 @@
     },
 {
         "name": "Quickie Pack 2",
-        "levels": ["arcturus", "wasureta", "kowareta"],
+        "levels": ["kate", "wasureta", "kowareta"],
         "colour": "#3786fc"
     },
 {
@@ -71,7 +71,7 @@
     },
 {
         "name": "Timing Pack 2",
-        "levels": ["rust", "silent_clubstep", "shardscapes"],
+        "levels": ["rust", "atomic_cannon_mk_ii", "shardscapes"],
         "colour": "#adadad"
     },
 {
@@ -91,7 +91,7 @@
     },
 {
         "name": "KylashTheKiller Pack",
-        "levels": ["lucid_nightmares", "sunset_sandstorm", "aftercatabath"],
+        "levels": ["hyper_paracosm", "sunset_sandstorm", "shardscapes"],
         "colour": "#e50000"
     },
 {
@@ -106,7 +106,7 @@
     },
 {
         "name": "ZerniasX Pack",
-        "levels": ["element_111_rg", "stereo_lament", "rage"],
+        "levels": ["element_111_rg", "viridian", "rage"],
         "colour": "#7fffd4"
     },
 {
@@ -131,7 +131,7 @@
     },
 {
         "name": "Riptide Pack",
-        "levels": ["neutra", "chromatic_haze", "sonic_wave_rebirth"],
+        "levels": ["neutra", "chromatic_haze", "random_access_memory"],
         "colour": "#e1681c"
     },
 {
@@ -236,7 +236,7 @@
     },
 {
         "name": "Greek Pack",
-        "levels": ["dolos", "acheron", "arcturus", "erebus", "keres"],
+        "levels": ["dolos", "sigma", "kenos", "erebus", "keres"],
         "colour": "#0d5eaf"
     },
 {
@@ -246,7 +246,7 @@
     },
 {
         "name": "Old Pack",
-        "levels": ["hard_machine", "silent_clubstep", "sary_never_clear", "element_111_rg"],
+        "levels": ["hard_machine", "athanatos", "sary_never_clear", "element_111_rg"],
         "colour": "#7d836f"
     },
 {
