@@ -32,6 +32,12 @@
             "link": "https://www.youtube.com/watch?v=eteisjugi_A",
             "percent": 100,
             "hz": 288
+        },
+        {
+            "user": "skyv",
+            "link": "https://youtu.be/hUT-uMz1yDQ",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
