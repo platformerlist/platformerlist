@@ -289,6 +289,12 @@
             "link": "https://www.youtube.com/watch?v=e-9A8QhEU1U",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "monthmai",
+            "link": "https://www.youtube.com/watch?v=8NXWA6-XKAU&ab_channel=monthmaigd",
+            "percent": 71,
+            "hz": 165
         }
     ]
 }
