@@ -2,11 +2,18 @@
     "id": 99335322,
     "name": "Terminal Heaven",
     "author": "G4lvatron",
-    "creators": [],
+    "creators": [
+],
     "verifier": "G4lvatron",
     "verification": "https://www.youtube.com/watch?v=e3GHd6jx1es",
     "percentToQualify": "100",
     "password": "N/A",
     "records": [
-    ]
+        {
+            "user": "SyncDL",
+            "link": "https://www.youtube.com/watch?v=X4D2MneFbWA",
+            "percent": "04:20:24.354",
+            "hz": 360
+        }
+    ] 
 }
