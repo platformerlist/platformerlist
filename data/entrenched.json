@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "N/A",
     "records": [
+        {
+            "user": "Deltatee",
+            "link": "https://www.youtube.com/watch?v=2j7cgl-1fJQ",
+            "percent": 100,
+            "hz": "04:20:24.354"
+        }
     ]
 }
