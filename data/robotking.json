@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "N/A",
     "records": [
+        {
+             "user": "IvanCrafter026",
+            "link": "https://www.youtube.com/watch?v=g1vF8rkGUBk",
+            "percent": 100,
+            "hz": "00:03:48.517"
+        }
     ]
 }
