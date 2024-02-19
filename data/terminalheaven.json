@@ -12,8 +12,8 @@
         {
             "user": "SyncDL",
             "link": "https://www.youtube.com/watch?v=X4D2MneFbWA",
-            "percent": "04:20:24.354",
-            "hz": 360
+            "percent": 100,
+            "hz": "04:20:24.354"
         }
     ] 
 }
