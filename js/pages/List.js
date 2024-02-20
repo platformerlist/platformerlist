@@ -117,6 +117,9 @@ export default {
                     <p>
                         The completion doesnt include any exploits (Secret Ways, Bugs) - Small skips are fine.
                     </p>
+                    <p>
+                        The record may be achieved with the Globed mod active. (Subject to change depending on what gets added in the future of the mod)
+                    </p>
                 </div>
             </div>
         </main>
