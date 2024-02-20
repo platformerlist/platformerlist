@@ -106,7 +106,7 @@ export default {
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record. It's prohibited to change the level in any way.
                     </p>
                     <p>
-                        The recording may be cut when reaching & respawning from a checkpoint, although the overall completion has to be done in one continuous run without leaving the level.
+                        The recording may be cut when reaching & respawning from a checkpoint, although the overall completion has to be done in one continuous sitting without leaving the level.
                     </p>
                     <p>
                         The recording must also show the player hit the end trigger and the endscreen with the time shown, or the completion will be invalidated.
