@@ -9,6 +9,12 @@
     "password": "N/A",
     "records": [
         {
+             "user": "PalakorCZ",
+            "link": "https://www.youtube.com/watch?v=eCih4vjar5I",
+            "percent": 100,
+            "hz": "01:39:09.975"
+        },
+        {
              "user": "IvanCrafter026",
             "link": "https://www.youtube.com/watch?v=g1vF8rkGUBk",
             "percent": 100,
