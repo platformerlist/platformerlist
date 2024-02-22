@@ -5,7 +5,7 @@
     "creators": [],
     "verifier": "LassiBoy",
     "verification": "https://youtu.be/_2RLME4pJQs",
-    "percentToQualify": "100",
+    "percentToQualify": "100",https://www.youtube.com/watch?v=CNdjb4yO-uA
     "password": "N/A",
     "records": [
         {
@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=7YaRlWGB5k8",
             "percent": 100,
             "hz": "00:14:49.375"
+        },
+        {
+            "user": "Enzo1141",
+            "link": "https://www.youtube.com/watch?v=CNdjb4yO-uA",
+            "percent": 100,
+            "hz": "00:03:49.058"
         }
     ]
 }
