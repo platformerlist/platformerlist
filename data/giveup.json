@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "N/A",
     "records": [
+        {
+            "user": "mariokirby1703",
+            "link": "https://www.youtube.com/watch?v=7is2L0334K4",
+            "percent": 100,
+            "hz": "00:14:00.341"
+        }
     ]
 }
