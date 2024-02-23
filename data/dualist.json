@@ -52,9 +52,81 @@
         },
         {
             "user": "SyncDL",
-            "link": "https://youtu.be/68HxPP2e24s?si=5EKQppOQfNOG9Lhy",
+            "link": "https://youtu.be/68HxPP2e24s",
             "percent": 100,
             "hz": "00:50:19.400"
+        },
+        {
+            "user": "Cacademarmota",
+            "link": "",
+            "percent": 100,
+            "hz": "00:07:04.487"
+        },
+        {
+            "user": "PoZZ",
+            "link": "https://youtu.be/1ZWrguO4oXs",
+            "percent": 100,
+            "hz": "00:26:36.391"
+        },
+        {
+            "user": "ZainAhmed",
+            "link": "https://youtu.be/4wCVs25-_s0",
+            "percent": 100,
+            "hz": "01:03:05.087"
+        },
+        {
+            "user": "Colouts",
+            "link": "https://youtu.be/xb3FXDRBgRI",
+            "percent": 100,
+            "hz": "00:31:10.558"
+        },
+        {
+            "user": "gmdS0up",
+            "link": "https://youtu.be/p0iEJyVMavE",
+            "percent": 100,
+            "hz": "00:07:58.029"
+        },
+        {
+            "user": "W_DeBeJoR",
+            "link": "https://youtu.be/_a7GpRZZaXk",
+            "percent": 100,
+            "hz": "00:01:49.029"
+        },
+        {
+            "user": "Extatica",
+            "link": "",
+            "percent": 100,
+            "hz": "00:34:31.683"
+        },
+        {
+            "user": "theFurret",
+            "link": "https://youtu.be/t48LfZJRUlc",
+            "percent": 100,
+            "hz": "01:20:55.237"
+        },
+        {
+            "user": "Gabest",
+            "link": "https://www.youtube.com/watch?v=kj0HzNvbRjE",
+            "percent": 100,
+            "hz": "00:54:16.162"
+        },
+        {
+            "user": "Deltatee",
+            "link": "https://www.youtube.com/watch?v=PrxyHtUoANs",
+            "percent": 100,
+            "hz": "01:01:26.146"
+        },
+        {
+            "user": "MrNexis",
+            "link": "https://www.youtube.com/watch?v=eGamkXloCoQ",
+            "percent": 100,
+            "hz": "00:25:56.075"
+        },
+        {
+            "user": "CyboFly",
+            "link": "https://youtu.be/L_z86CqQcG0",
+            "percent": 100,
+            "hz": "00:10:41.329"
         }
     ]
 }
