@@ -1,0 +1,24 @@
+{
+    "id": 100486532,
+    "name": "Storm Front",
+    "author": "rtnman",
+    "creators": [],
+    "verifier": "rtnman",
+    "verification": "https://www.youtube.com/watch?v=zqUfHw48gYQ",
+    "percentToQualify": "100",
+    "password": "N/A",
+    "records": [
+        {
+            "user": "mariokirby1703",
+            "link": "https://www.youtube.com/watch?v=jARXyerckC4",
+            "percent": 100,
+            "hz": "02:10:29.525"
+        },
+        {
+            "user": "Enzo",
+            "link": "https://www.youtube.com/watch?v=PG6jw8lOR9c",
+            "percent": 100,
+            "hz": "01:42:36.625"
+        }
+    ]
+}
