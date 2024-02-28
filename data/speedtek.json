@@ -99,10 +99,16 @@
             "hz": "00:46:52.820"
         },
         {
-        "user": "MrNexis",
-        "hz": "00:01:20.741",
-        "percent": 100,
-        "link": "https://youtu.be/3424RqEwyek?si=0U6TDzvEoowXTyvd"
+            "user": "MrNexis",
+            "hz": "00:01:20.741",
+            "percent": 100,
+            "link": "https://youtu.be/3424RqEwyek?si=0U6TDzvEoowXTyvd"
+        },
+        {
+            "user": "NTPinheiro",
+            "hz": "00:13:15.654",
+            "percent": 100,
+            "link": "https://youtu.be/nd6VDoFUq4w"
         }
     ]
 }
