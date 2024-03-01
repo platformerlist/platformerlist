@@ -99,12 +99,10 @@
             "link": "https://youtu.be/cnvdZmEGDcE?si=TtFVMc1MrZLcmdve"
         },
         {
-        "user": "Cacademarmota",
-        "hz": "00:14:26.325",
-        "percent": 100,
-        "link": ""
-    }
-
-        
+            "user": "Cacademarmota",
+            "hz": "00:14:26.325",
+            "percent": 100,
+            "link": ""
+        }    
     ]
 }
