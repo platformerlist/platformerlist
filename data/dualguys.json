@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "N/A",
     "records": [
+        {
+            "user": "Voiddle",
+            "link": "https://www.youtube.com/watch?v=CWDD2KEoKJQ",
+            "percent": 100,
+            "hz": "00:08:43.987"
+        }
     ]
 }
