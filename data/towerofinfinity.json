@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "N/A",
     "records": [
+        {
+        "user": "extatica",
+        "hz": "00:58:56.200",
+        "percent": 100,
+        "link": ""
+        }
     ]
 }
