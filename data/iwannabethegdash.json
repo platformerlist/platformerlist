@@ -27,16 +27,22 @@
             "link": "https://youtu.be/oalx_ypoAiA?si=LGfVwnksvKvPLlEK"
         },
         {
-        "user": "mariokirby1703",
-        "hz": "00:05:36.479",
-        "percent": 100,
-        "link": "https://www.youtube.com/watch?v=WAZjDBbGYIQ"
+            "user": "mariokirby1703",
+            "hz": "00:05:36.479",
+            "percent": 100,
+            "link": "https://www.youtube.com/watch?v=WAZjDBbGYIQ"
         },
         {
-        "user": "IvanCrafter026",
-        "hz": "00:08:02.466",
-        "percent": 100,
-        "link": "https://www.youtube.com/watch?v=d5p8NgEuSlg"
-    }
+            "user": "IvanCrafter026",
+            "hz": "00:08:02.466",
+            "percent": 100,
+            "link": "https://www.youtube.com/watch?v=d5p8NgEuSlg"
+        },
+        {
+            "user": "Enzo1141",
+            "hz": "00:02:32.291",
+            "percent": 100,
+            "link": "https://www.youtube.com/watch?v=KPtM2Hgq2xw"
+        }
     ]
 }
