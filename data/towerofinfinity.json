@@ -38,11 +38,17 @@
             "percent": 100,
             "link": "https://youtu.be/LAaKmTfrlqw?si=ACsj9rr_MJSmUW_S"
         },
-    {
-        "user": "mariokirby1703",
-        "hz": "04:27:20.067",
-        "percent": 100,
-        "link": "https://www.youtube.com/watch?v=5zPXkCprNjQ"
-    }
+        {
+            "user": "mariokirby1703",
+            "hz": "04:27:20.067",
+            "percent": 100,
+            "link": "https://www.youtube.com/watch?v=5zPXkCprNjQ"
+        },
+        {
+            "user": "Enzo1141",
+            "hz": "01:27:50.662",
+            "percent": 100,
+            "link": "https://www.youtube.com/watch?v=gygcy4v8q5E"
+        }
     ]
 }
