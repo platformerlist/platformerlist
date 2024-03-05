@@ -21,10 +21,16 @@
             "link": "https://youtu.be/moa7G1jEwvc"
         },
         {
-        "user": "mariokirby1703",
-        "hz": "00:02:12.691",
-        "percent": 100,
-        "link": "https://www.youtube.com/watch?v=wOHqitLAXyM"
-    }
+            "user": "mariokirby1703",
+            "hz": "00:02:12.691",
+            "percent": 100,
+            "link": "https://www.youtube.com/watch?v=wOHqitLAXyM"
+        },
+        {
+            "user": "Enzo1141",
+            "hz": "00:02:14.891",
+            "percent": 100,
+            "link": "https://www.youtube.com/watch?v=ByhIFJ0atz8"
+        }
     ]
 }
