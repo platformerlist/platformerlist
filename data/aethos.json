@@ -14,17 +14,23 @@
             "percent": 100,
             "hz": "00:17:52.683"
         },
-         {
+        {
             "user": "mariokirby1703",
             "link": "https://www.youtube.com/watch?v=v2elfqWviA4",
             "percent": 100,
             "hz": "00:19:14.129"
         },
-         {
+        {
             "user": "Enzo1141",
             "link": "https://www.youtube.com/watch?v=5A5unqXyPUo",
             "percent": 100,
             "hz": "00:31:17.895"
+        },
+        {
+            "user": "IvanCrafter026",
+            "link": "https://youtu.be/-AUDo-lj4RA",
+            "percent": 100,
+            "hz": "00:07:57.845"
         }
     ]
 }
