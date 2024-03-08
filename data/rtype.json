@@ -37,6 +37,12 @@
             "hz": "00:01:24.875",
             "percent": 100,
             "link": "https://www.youtube.com/watch?v=Y2oaPO1ztww"
+        },
+        {
+            "user": "Arouvis",
+            "link": "https://youtu.be/YxPN9EAShiQ",
+            "percent": 100,
+            "hz": "00:01:17.504"
         }
     ]
 }
