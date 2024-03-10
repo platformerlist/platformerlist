@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "N/A",
     "records": [
+        {
+            "user": "CyboFly",
+            "link": "https://www.youtube.com/watch?v=w81SPdn-33o",
+            "percent": 100,
+            "hz": "02:17:49.021"
+        }
     ]
 }
