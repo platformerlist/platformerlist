@@ -128,11 +128,17 @@
             "percent": 100,
             "link": ""
         },
-            {
+        {
             "user": "gmdS0up",
             "hz": "00:02:56.808",
             "percent": 100,
             "link": "https://youtu.be/IENjxY7A0mM"
+        },
+        {
+            "user": "Adanz9",
+            "hz": "00:06:27.712",
+            "percent": 100,
+            "link": "https://youtu.be/bEqu-xSnLh0"
         }
     ]
 }
