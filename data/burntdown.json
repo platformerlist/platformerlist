@@ -153,10 +153,16 @@
             "link": "https://youtu.be/u4Sm3Wxgnro"
         },
         {
-        "user": "crug",
-        "hz": "00:11:21.100",
-        "percent": 100,
-        "link": "https://youtu.be/Odp75hRvYNw"
-    }
+            "user": "crug",
+            "hz": "00:11:21.100",
+            "percent": 100,
+            "link": "https://youtu.be/Odp75hRvYNw"
+        },
+        {
+            "user": "Adanz9",
+            "hz": "00:02:14.008",
+            "percent": 100,
+            "link": "https://youtu.be/EdSVdRRsFyo"
+        }
     ]
 }
