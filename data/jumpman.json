@@ -1,0 +1,18 @@
+{
+    "id": 102609760,
+    "name": "JUMPMAN",
+    "author": "LIEB",
+    "creators": [],
+    "verifier": "LIEB",
+    "verification": "https://www.youtube.com/watch?v=vDpkkB8KHsc",
+    "percentToQualify": "100",
+    "password": "N/A",
+    "records": [
+        {
+            "user": "mariokirby1703",
+            "link": "https://www.youtube.com/watch?v=91oxncty-2E",
+            "percent": 100,
+            "hz": "00:04:53.541"
+        }
+    ]
+}
