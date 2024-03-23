@@ -9,6 +9,22 @@
     "password": "N/A",
     "records": [
         {
+            "user": "mariokirby1703",
+            "link": "https://www.youtube.com/watch?v=IeJ99BJBUeA",
+            "percent": 100,
+            "hz": "00:53:45.146"
+        },
+        {
+            "user": "MrNexis",
+            "link": "https://www.youtube.com/watch?v=utGBtjF4Quk",
+            "percent": 100,
+            "hz": "00:49:08.495"
+        },
+        {
+            "user": "Adanz9",
+            "link": "https://www.youtube.com/watch?v=30sK2hNuET4",
+            "percent": 100,
+            "hz": "00:43:32.333"
         }
     ]
 }
