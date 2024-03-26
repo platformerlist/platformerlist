@@ -217,6 +217,12 @@
             "hz": "00:01:23.245",
             "percent": 100,
             "link": "https://www.youtube.com/watch?v=LkXdwQDZBwE"
+        },
+        {
+            "user": "SWB Pro",
+            "hz": "00:02:12.637",
+            "percent": 100,
+            "link": "https://youtu.be/M-ajUihAQMY?si=TL-psmMHmKfVd6kT"
         }
     ]
 }
