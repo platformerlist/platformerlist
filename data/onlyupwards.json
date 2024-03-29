@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "N/A",
     "records": [
+        {
+            "user": "ZainAhmed",
+            "link": "https://www.youtube.com/watch?v=4k08AVACVvA",
+            "percent": 100,
+            "hz": "00:47:38.658"
+        }
     ]
 }
