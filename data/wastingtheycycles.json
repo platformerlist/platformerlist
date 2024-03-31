@@ -2,29 +2,33 @@
     "id": 101533327,
     "name": "WASTING THEY CYCLES",
     "author": "TheRealXFuture",
-    "creators": ["TheRealXFuture", "Raccaroni", "JFero"],
+    "creators": [
+        "TheRealXFuture",
+        "Raccaroni",
+        "JFero"
+    ],
     "verifier": "TheRealXFuture",
     "verification": "https://www.youtube.com/watch?v=oJVt0wdByp0",
     "percentToQualify": "100",
     "password": "N/A",
     "records": [
         {
-        "user": "mariokirby1703",
-        "hz": "00:30:54.645",
-        "percent": 100,
-        "link": "https://www.youtube.com/watch?v=CmeG6BI5aQ0"
+            "user": "mariokirby1703",
+            "hz": "00:30:54.645",
+            "percent": 100,
+            "link": "https://www.youtube.com/watch?v=CmeG6BI5aQ0"
         },
         {
-        "user": "SyncDL",
-        "hz": "00:23:54.700",
-        "percent": 100,
-        "link": "https://www.youtube.com/watch?v=NjLpix2IxB4"
+            "user": "SyncDL",
+            "hz": "00:23:54.700",
+            "percent": 100,
+            "link": "https://www.youtube.com/watch?v=NjLpix2IxB4"
         },
         {
-        "user": "Enzo1141",
-        "hz": "00:05:50.366",
-        "percent": 100,
-        "link": "https://www.youtube.com/watch?v=4sd3OoELKJw"
+            "user": "Enzo1141",
+            "hz": "00:05:50.366",
+            "percent": 100,
+            "link": "https://www.youtube.com/watch?v=4sd3OoELKJw"
         },
         {
             "user": "Arouvis",
@@ -55,6 +59,12 @@
             "hz": "00:53:24.896",
             "percent": 100,
             "link": "https://www.youtube.com/watch?v=mCySKn3CRTc"
+        },
+        {
+            "user": "ZynTagY_927",
+            "link": "https://youtu.be/vPBYdWDiEBs?si=5fGwbdyuiOLJEWY5",
+            "percent": 100,
+            "hz": "00:40:49.158"
         }
     ]
 }
