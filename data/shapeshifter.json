@@ -8,7 +8,7 @@
     "percentToQualify": "100",
     "password": "N/A",
     "records": [
-         {
+        {
             "user": "SyncDL",
             "link": "https://www.youtube.com/watch?v=KdIHSjjzPkc",
             "percent": 100,
@@ -67,6 +67,12 @@
             "link": "https://www.youtube.com/watch?v=6b1RFOyrFgU",
             "percent": 100,
             "hz": "00:52:31.333"
+        },
+        {
+            "user": "Arouvis",
+            "link": "https://www.youtube.com/watch?v=ATVJwhQxTjg",
+            "percent": 100,
+            "hz": "00:37:06.716"
         }
     ]
 }
