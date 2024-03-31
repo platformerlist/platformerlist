@@ -1,8 +1,11 @@
 {
-    "id": 	98502425,
+    "id": 98502425,
     "name": "Buddy Trials",
     "author": "Wolvvy",
-    "creators": ["Wolvvy", "CallMeEvan"],
+    "creators": [
+        "Wolvvy",
+        "CallMeEvan"
+    ],
     "verifier": "Wolvvy",
     "verification": "https://youtu.be/5D_W3RsiVX0",
     "percentToQualify": "100",
@@ -193,6 +196,12 @@
             "hz": "00:16:23.725",
             "percent": 100,
             "link": "https://youtu.be/fPKkqmmxsh4?si=Mw99No2WalbhfSCc"
+        },
+        {
+            "user": "jupi",
+            "link": "https://youtu.be/p5QEjUlcTYw?si=MDV8MjoSEjB0w3c2",
+            "percent": 100,
+            "hz": "00:19:11.004"
         }
     ]
 }
