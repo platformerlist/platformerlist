@@ -2,7 +2,10 @@
     "id": 100424840,
     "name": "Abyssal Whispers",
     "author": "Df0rDie",
-    "creators": ["Df0rDie", "Endernile"],
+    "creators": [
+        "Df0rDie",
+        "Endernile"
+    ],
     "verifier": "Df0rDie",
     "verification": "https://www.youtube.com/watch?v=EpI8VDwoNEs",
     "percentToQualify": "100",
@@ -61,6 +64,12 @@
             "hz": "00:36:04.487",
             "percent": 100,
             "link": "https://www.youtube.com/watch?v=k-kuF1JXBHo"
+        },
+        {
+            "user": "double2",
+            "link": "https://www.youtube.com/watch?v=Jw5wSV_Ofag&list=PLMYt0wbSdmakQL-qeI50BW-ESvahup25R&index=13",
+            "percent": 100,
+            "hz": "00:43:15.500"
         }
     ]
 }
