@@ -85,6 +85,12 @@
             "hz": "00:32:39.170",
             "percent": 100,
             "link": "https://www.youtube.com/watch?v=ZgWLlwdx4L0"
+        },
+        {
+            "user": "Ezequiel",
+            "link": "https://www.youtube.com/watch?v=ZJQWqXHa0ds",
+            "percent": 100,
+            "hz": "00:06:24.137"
         }
     ]
 }
