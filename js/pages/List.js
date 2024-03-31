@@ -118,6 +118,9 @@ export default {
                         The completion doesnt include any exploits (Secret Ways, Bugs) - Small skips are fine.
                     </p>
                     <p>
+                        The Usage of the "Hitbox on Death" Hack is prohibited for records after April 1st 2024.
+                    </p>
+                    <p>
                         The record may be achieved with the Globed mod active. (Subject to change depending on what gets added in the future of the mod)
                     </p>
                 </div>
