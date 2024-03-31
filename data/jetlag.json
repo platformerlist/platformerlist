@@ -235,6 +235,12 @@
             "hz": "00:02:04.904",
             "percent": 100,
             "link": "https://youtu.be/hmMwVXoVVLQ"
+        },
+        {
+            "user": "Maddy",
+            "link": "https://youtu.be/OOcMVOxcBIs?si=XAA9VzpGh5TbpBhh",
+            "percent": 100,
+            "hz": "00:06:11.679"
         }
     ]
 }
