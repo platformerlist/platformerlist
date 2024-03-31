@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "N/A",
     "records": [
+        {
+            "user": "SammyMoment",
+            "link": "https://youtu.be/oUOxiA2Rj1s?t=819",
+            "percent": 100,
+            "hz": "00:02:05.779"
+        }
     ]
 }
