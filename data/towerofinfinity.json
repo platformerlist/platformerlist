@@ -9,10 +9,10 @@
     "password": "N/A",
     "records": [
         {
-        "user": "extatica",
-        "hz": "00:58:56.200",
-        "percent": 100,
-        "link": ""
+            "user": "extatica",
+            "hz": "00:58:56.200",
+            "percent": 100,
+            "link": ""
         },
         {
             "user": "theFurret",
@@ -76,9 +76,9 @@
         },
         {
             "user": "Voiddle",
-            "link": "https://www.youtube.com/watch?v=nycWLP0ZIiM",
+            "link": "https://youtu.be/3X6cMYNN2-8?si=iccp58K9ddjdqdBm",
             "percent": 100,
-            "hz": "01:31:34.987"
+            "hz": "00:46:03.958"
         },
         {
             "user": "Adanz9",
