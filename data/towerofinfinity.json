@@ -75,7 +75,7 @@
             "hz": "00:39:30.041"
         },
         {
-            "user": "Voiddle",
+            "user": "Elli=e",
             "link": "https://youtu.be/3X6cMYNN2-8?si=iccp58K9ddjdqdBm",
             "percent": 100,
             "hz": "00:46:03.958"
@@ -121,6 +121,12 @@
             "hz": "02:46:19.817",
             "percent": 100,
             "link": "https://www.youtube.com/watch?v=Y9NfvjUu1aQ"
+        },
+        {
+            "user": "Voiddle",
+            "link": "https://www.youtube.com/watch?v=nycWLP0ZIiM",
+            "percent": 100,
+            "hz": "01:31:34.987"
         }
     ]
 }
