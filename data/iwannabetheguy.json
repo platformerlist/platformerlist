@@ -2,7 +2,9 @@
     "id": 97543536,
     "name": "I wanna be the guy",
     "author": "Aless50",
-    "creators": ["Orelu"],
+    "creators": [
+        "Orelu"
+    ],
     "verifier": "Aless50",
     "verification": "https://www.youtube.com/watch?v=P3b69nt2JtY",
     "percentToQualify": "100",
@@ -217,6 +219,12 @@
             "hz": "01:14:55.421",
             "percent": 100,
             "link": "https://youtu.be/gbIfWjKZpiM?si=Sd1k7lOrWu062i8o"
+        },
+        {
+            "user": "Maddy",
+            "link": "https://www.youtube.com/watch?v=hFj0X-j5w7Q",
+            "percent": 100,
+            "hz": "00:18:38.487"
         }
     ]
 }
