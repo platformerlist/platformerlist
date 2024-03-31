@@ -199,6 +199,12 @@
             "hz": "00:01:10.483",
             "percent": 100,
             "link": "https://www.youtube.com/watch?v=k96a-0SC8WM"
+        },
+        {
+            "user": "jupi",
+            "link": "https://youtu.be/k_c8Vg7aU4k?si=WbUg4wzuwWPoMfOp",
+            "percent": 100,
+            "hz": "00:01:10.483"
         }
     ]
 }
