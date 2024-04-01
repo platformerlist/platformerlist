@@ -205,6 +205,12 @@
             "hz": "00:09:51.154",
             "percent": 100,
             "link": "https://youtu.be/tDa1OIoWS7g"
+        },
+        {
+            "user": "MKWCore",
+            "link": "https://www.youtube.com/watch?v=LBY3Abhdch0",
+            "percent": 100,
+            "hz": "00:50:30.137"
         }
     ]
 }
