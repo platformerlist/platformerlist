@@ -2,7 +2,15 @@
     "id": 100979172,
     "name": "Cube Escape",
     "author": "retromanGD",
-    "creators": ["retromanGD", "Akvaz", "Vizitek", "WarningGoat", "MC_AASJ", "1nvise", "Viteral"],
+    "creators": [
+        "retromanGD",
+        "Akvaz",
+        "Vizitek",
+        "WarningGoat",
+        "MC_AASJ",
+        "1nvise",
+        "Viteral"
+    ],
     "verifier": "retromanGD",
     "verification": "https://www.youtube.com/watch?v=yk-AnFbBS5M",
     "percentToQualify": "100",
@@ -127,6 +135,12 @@
             "hz": "00:16:50.470",
             "percent": 100,
             "link": "https://youtu.be/1H3nuRWPknw?si=0YIaZv0lvsWOHQKr"
+        },
+        {
+            "user": "Monsterr6969",
+            "link": "https://www.youtube.com/watch?v=E0KBpw_CVCg",
+            "percent": 100,
+            "hz": "00:18:40.891"
         }
     ]
 }
