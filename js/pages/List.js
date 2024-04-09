@@ -101,24 +101,28 @@ export default {
                     <h3>Submission Requirements</h3>
                     <p>
                         Achieved the record without the use of hacks. (Unlimited FPS is allowed, Physics Bypass is prohibited)
+                        Usage of Noclip Accuracy may lead to an invalid completion if the endscreen shows more than 0 deaths even though Noclip was not used.
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record. It's prohibited to change the level in any way.
+                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record. It is allowed to beat the Low Detail Mode Versions listed in the "Pemonlist LDM" List ingame. It's prohibited to change the levels in any way.
                     </p>
                     <p>
                         The recording may be cut when reaching & respawning from a checkpoint, although the overall completion has to be done in one continuous sitting without leaving the level.
                     </p>
                     <p>
-                        The recording must also show the player hit the end trigger and the endscreen with the time shown, or the completion will be invalidated.
+                        The recording must also show the player hit the end trigger AND the endscreen with the time shown on said endscreen, or the completion will be invalidated.
                     </p>
                     <p>
                         The recording must have clicks for extreme demon completions.
                     </p>
                     <p>
-                        The completion doesnt include any exploits (Secret Ways, Bugs) - Small skips are fine.
+                        The completion doesn't include any exploits (Secret Ways, Bugs) - Small skips are fine.
                     </p>
                     <p>
-                        The Usage of the "Hitbox on Death" Hack is prohibited for records after April 1st 2024.
+                        The Usage of the "Hitbox on Death" Hack is prohibited for memory levels or levels where it serves a clear advantage over not using it.
+                    </p>
+                    <p>
+                        The Usage of the "Click Inbetween Frames" Mod is prohibited as it significantly gives an advantage over not using it.
                     </p>
                     <p>
                         The record may be achieved with the Globed mod active. (Subject to change depending on what gets added in the future of the mod)
