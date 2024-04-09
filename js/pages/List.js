@@ -100,7 +100,7 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without the use of hacks. (Unlimited FPS is allowed, Physics Bypass is prohibited)
+                        Achieved the record without the use of hacks. (Unlimited FPS is allowed, Physics Bypass is prohibited). -
                         Usage of Noclip Accuracy may lead to an invalid completion if the endscreen shows more than 0 deaths even though Noclip was not used.
                     </p>
                     <p>
