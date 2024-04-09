@@ -116,7 +116,7 @@ export default {
                         The recording must have clicks for extreme demon completions.
                     </p>
                     <p>
-                        The completion doesn't include any exploits (Secret Ways, Bugs) - Small skips are fine.
+                        The completion doesn't include any exploits (Secret Ways, Bugs, Pause Buffering) - Small skips are fine.
                     </p>
                     <p>
                         The Usage of the "Hitbox on Death" Hack is prohibited for memory levels or levels where it serves a clear advantage over not using it.
