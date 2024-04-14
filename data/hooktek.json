@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "N/A",
     "records": [
+        {
+            "user": "Adanz9",
+            "link": "https://youtu.be/Y0dZ5iPhaAM",
+            "percent": 100,
+            "hz": "00:20:25.758"
+        }
     ]
 }
