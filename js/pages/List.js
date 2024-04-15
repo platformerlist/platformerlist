@@ -122,7 +122,7 @@ export default {
                         The Usage of the "Hitbox on Death" Hack is prohibited for memory levels or levels where it serves a clear advantage over not using it.
                     </p>
                     <p>
-                        The Usage of the "Click Inbetween Frames" Mod is prohibited as it significantly gives an advantage over not using it.
+                        The Usage of the "Click Between Frames" Mod is prohibited as it significantly gives an advantage over not using it.
                     </p>
                     <p>
                         The record may be achieved with the Globed mod active. (Subject to change depending on what gets added in the future of the mod)
