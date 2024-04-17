@@ -1,4 +1,4 @@
- {
+{
     "id": 99170473,
     "name": "Idling Somewhere",
     "author": "Hychie",
@@ -211,6 +211,12 @@
             "hz": "00:02:33.045",
             "percent": 100,
             "link": "https://www.youtube.com/watch?v=TE0bc4fx5WE"
+        },
+        {
+            "user": "oogachaga",
+            "link": "https://www.youtube.com/watch?v=BjoRKi2CxUQ&list=PLkZjEHXadH5788zYO_2XnENqmEMY4MN_2&index=39",
+            "percent": 100,
+            "hz": "00:00:57.645"
         }
     ]
 }
