@@ -5,6 +5,11 @@
         "link": ""
     },
     {
+        "role": "dev",
+        "name": "Lexi",
+        "link": ""
+    },
+    {
         "role": "admin",
         "name": "mariokirby1703",
         "link": ""
@@ -12,11 +17,6 @@
     {
         "role": "admin",
         "name": "Extatica",
-        "link": ""
-    },
-    {
-        "role": "dev",
-        "name": "Lexi",
         "link": ""
     },
     {
@@ -52,6 +52,11 @@
     {
         "role": "helper",
         "name": "Colouts",
+        "link": ""
+    },
+    {
+        "role": "helper",
+        "name": "FakeHATETAG",
         "link": ""
     },
     {
