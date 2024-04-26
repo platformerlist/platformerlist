@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "N/A",
     "records": [
+        {
+            "user": "FakeHATETAG",
+            "link": "https://www.youtube.com/watch?v=JAM-DTxJopw&list=PLC9s1slb9_0sY5fChpL5XBKMe-BamBjmG",
+            "percent": 100,
+            "hz": "02:34:20.396"
+        }
     ]
 }
