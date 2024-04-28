@@ -2,32 +2,35 @@
     "id": 99927952,
     "name": "Robot King",
     "author": "GDgalaxygaming",
-    "creators": ["GDgalaxygaming", "Wavvy"],
+    "creators": [
+        "GDgalaxygaming",
+        "Wavvy"
+    ],
     "verifier": "GDgalaxygaming",
     "verification": "https://www.youtube.com/watch?v=jMLqD70C6W0",
     "percentToQualify": "100",
     "password": "N/A",
     "records": [
         {
-             "user": "PalakorCZ",
+            "user": "PalakorCZ",
             "link": "https://www.youtube.com/watch?v=eCih4vjar5I",
             "percent": 100,
             "hz": "01:39:09.975"
         },
         {
-             "user": "IvanCrafter026",
+            "user": "IvanCrafter026",
             "link": "https://www.youtube.com/watch?v=g1vF8rkGUBk",
             "percent": 100,
             "hz": "00:03:48.517"
         },
         {
-             "user": "mariokirby1703",
+            "user": "mariokirby1703",
             "link": "https://www.youtube.com/watch?v=qTIa7JujA5Q",
             "percent": 100,
             "hz": "00:30:25.383"
         },
         {
-             "user": "Enzo1141",
+            "user": "Enzo1141",
             "link": "https://youtu.be/RUjUFwRVgYA",
             "percent": 100,
             "hz": "00:40:29.650"
@@ -97,6 +100,12 @@
             "hz": "01:25:32.104",
             "percent": 100,
             "link": "https://youtu.be/u5YWcRhrMO8"
+        },
+        {
+            "user": "Ezequiel",
+            "link": "https://www.youtube.com/watch?v=c4toibSNcQs",
+            "percent": 100,
+            "hz": "00:44:29.525"
         }
     ]
 }
