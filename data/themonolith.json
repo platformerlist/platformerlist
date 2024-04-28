@@ -2,11 +2,20 @@
     "id": 104416362,
     "name": "The Monolith",
     "author": "thejshadow",
-    "creators": ["thejshadow", "Moistenedegg"],
+    "creators": [
+        "thejshadow",
+        "Moistenedegg"
+    ],
     "verifier": "thejshadow",
     "verification": "https://www.youtube.com/watch?v=1LPQ0jx11g8",
     "percentToQualify": "100",
     "password": "N/A",
     "records": [
+        {
+            "user": "Arouvis",
+            "link": "https://www.youtube.com/watch?v=mZ9E2ypjCyI",
+            "percent": 100,
+            "hz": "00:20:09.383"
+        }
     ]
 }
