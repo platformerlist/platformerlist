@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "N/A",
     "records": [
+        {
+            "user": "Nubot",
+            "link": "https://youtu.be/y1Qc6r2XxMk?si=BJmLPJ-SCklG4RAR",
+            "percent": 100,
+            "hz": "00:45:24.929"
+        }
     ]
 }
