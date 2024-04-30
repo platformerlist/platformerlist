@@ -113,7 +113,7 @@ export default {
                         The recording must also show the player hit the end trigger AND the endscreen with the time shown on said endscreen, or the completion will be invalidated.
                     </p>
                     <p>
-                        The recording must have clicks for extreme demon completions.
+                        The recording must have clicks for extreme demon completions. Raw footage is also required to get your record accepted!
                     </p>
                     <p>
                         The completion doesn't include any exploits (Secret Ways, Bugs, Pause Buffering) - Small skips are fine.
