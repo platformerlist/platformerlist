@@ -319,6 +319,12 @@
             "link": "https://www.youtube.com/watch?v=hmLpSzbY38k&list=PLbWFrrhMJjQf5dDuzPUzFHenrR5v1ytvu&index=6",
             "percent": 100,
             "hz": "00:24:27.504"
+        },
+        {
+            "user": "https://www.youtube.com/watch?v=0BUgfDFCv_M",
+            "link": "https://www.youtube.com/watch?v=0BUgfDFCv_M",
+            "percent": 100,
+            "hz": "00:00:49.504"
         }
     ]
 }
