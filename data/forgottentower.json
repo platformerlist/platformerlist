@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "N/A",
     "records": [
+        {
+            "user": "Colouts",
+            "link": "https://youtu.be/UQ0wHIGJ6QM?si=Fd1jazGY0vVdn-xW",
+            "percent": 100,
+            "hz": "00:03:52.970"
+        }
     ]
 }
