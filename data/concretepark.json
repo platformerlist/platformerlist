@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "N/A",
     "records": [
+        {
+            "user": "MrNexis",
+            "link": "https://youtu.be/GH6xhRoy39w?si=mGy74stCtv7he3Hj",
+            "percent": 100,
+            "hz": "00:04:33.925"
+        }
     ]
 }
