@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "N/A",
     "records": [
+        {
+            "user": "Enzo",
+            "link": "https://www.youtube.com/watch?v=oEXdubSAfuc",
+            "percent": 100,
+            "hz": "00:17:35.283"
+        }
     ]
 }
