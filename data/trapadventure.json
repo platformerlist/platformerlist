@@ -9,16 +9,16 @@
     "password": "N/A",
     "records": [
         {
-            "user": "Adanz9",
-            "link": "https://youtu.be/tp-Hbf0NXOc",
-            "percent": 100,
-            "hz": "00:09:19.433"
-        },
-        {
             "user": "mariokirby1703",
             "link": "https://www.youtube.com/watch?v=Y7xxK_AqhPo",
             "percent": 100,
             "hz": "00:07:53.420"
+        },
+        {
+            "user": "Adanz9",
+            "link": "https://youtu.be/tp-Hbf0NXOc",
+            "percent": 100,
+            "hz": "00:09:19.433"
         }
     ]
 }
