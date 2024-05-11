@@ -2,11 +2,20 @@
     "id": 103783069,
     "name": "Bomb Defusal",
     "author": "BrutalSword",
-    "creators": ["BrutalSword", "Eidam"],
+    "creators": [
+        "BrutalSword",
+        "Eidam"
+    ],
     "verifier": "BrutalSword",
     "verification": "https://www.youtube.com/watch?v=b8duVpbKqGI",
     "percentToQualify": "100",
     "password": "N/A",
     "records": [
+        {
+            "user": "Adanz9",
+            "link": "https://youtu.be/K4bVab22tiQ",
+            "percent": 100,
+            "hz": "00:05:10.608"
+        }
     ]
 }
