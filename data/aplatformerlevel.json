@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "N/A",
     "records": [
+        {
+            "user": "JungleWolf",
+            "link": "https://youtu.be/xByC4YV2tAQ",
+            "percent": 100,
+            "hz": "00:17:57.837"
+        }
     ]
 }
